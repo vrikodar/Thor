@@ -3,6 +3,8 @@ BruteForce SSH Login Credentials much Faster...!
 
 Thor Uses Threading in Order to Speed-up the Bruteforce_Process....
 
+# 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
+Just run the install.sh script after chmod +x install.sh
 # 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢
 
 These Program Works Best With Python3
