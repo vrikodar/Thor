@@ -9,6 +9,18 @@ from termcolor import colored
 stop_flag = 0
 #setting the initial value to 0
 
+hammer = '''
+ -------
+/ SxNade|
+\       /
+ ---||--
+    ||
+    ||
+    ||
+    ||
+    ...`
+     '''
+
 logo = '''
 
     .....                                               
@@ -49,7 +61,7 @@ def ssh_connect(password, code=0):
   try:
     ssh.connect(target_ip, port=22, username=username, password=password)
     stop_flag = 1
-    print(colored(f"\n[+]SSH Password For {username} found :> {password}\n", "green", attrs=['bold']))
+    print(colored(f"\n[+]SSH Password For {username} found :> {password}    {hammer}\n", "green", attrs=['bold']))
   except:
     print(colored(f"[!]Incorrect SSH password:> {password}", 'red'))
   ssh.close()
