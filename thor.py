@@ -86,4 +86,5 @@ with open(password_file, 'r') as file:
     t.start()
     #starting threading on ssh_connect function which takes only one argument of password...
     time.sleep(0.4)
+    #time in seconds between each successive thread//Don't change it unless very neccessary...!
 
