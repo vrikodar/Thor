@@ -7,7 +7,9 @@
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/SxNade)
 
 # Thor
-BruteForce SSH Login Credentials much Faster...!
+![Capture](https://thumbs.gfycat.com/HarmlessHarshIsabellinewheatear-size_restricted.gif)
+
+`BruteForce SSH Login Credentials much Faster...!`
 
 `Thor Uses Threading in Order to Speed-up the Bruteforce_Process`
 
