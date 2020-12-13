@@ -29,4 +29,4 @@ To run Thor Simply Execute the Following Command....with respective values....
 # 𝑴𝑨𝑲𝑬_𝑰𝑻_𝑩𝑬𝑻𝑻𝑬𝑹
 To make Thor Even Better Contribute to it Or use and Report Any Bugs or fixes Required..
 
-`git clone https://github.com/SxNade/Thor
+`git clone https://github.com/SxNade/Thor`
