@@ -7,7 +7,7 @@
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/SxNade)
 
 # Thor
-![Capture](https://media.tenor.com/images/ffcf281f16715454349f3dcfa7e9a3e8/tenor.gif)
+![Capture](https://tenor.com/view/thor-avenger-chris-hemsworth-mjolnir-gif-13624915)
 
 `BruteForce SSH Login Credentials much Faster...!`
 
