@@ -21,7 +21,7 @@
 
 `Use Python3 to run the Program`
 
-`Note: The time.sleep value is set to 0.4 by default you may change it to 0.2 for maximum performance and speed but this may raise some errors but will still manage to Discover the password`
+`Note: The time.sleep value is set to 0.5 by default you may change it to 0.2 for maximum performance and speed but this may raise some errors but will still manage to Discover the password`
 
 # 𝙍𝙐𝙉𝙉𝙄𝙉𝙂
 To run Thor Simply Execute the Following Command....with respective values....
