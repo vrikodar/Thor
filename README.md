@@ -32,3 +32,4 @@ To run Thor Simply Execute the Following Command....with respective values....
 To make Thor Even Better Contribute to it Or use and Report Any Bugs or fixes Required..
 
 `git clone https://github.com/SxNade/Thor`
+
