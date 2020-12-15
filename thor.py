@@ -1,3 +1,8 @@
+ 
+#By SxNade
+#https://github.com/SxNade
+#CONTRIBUTE
+
 import paramiko
 import os
 import sys
