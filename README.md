@@ -16,11 +16,13 @@
 
 `Thor Uses Threading in Order to Speed-up the Bruteforce_Process`
 
+
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
 ` 1 chmod +x install.sh`
 
 `2 ./install.sh`
+
 
 # 𝙍𝙐𝙉𝙉𝙄𝙉𝙂
 To run Thor Simply Execute the Following Command....with respective values....
