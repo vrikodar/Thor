@@ -45,6 +45,7 @@ X~     `?888888hx~ `888E        ...ue888b   .d88B :@8c
                             *By SxNade https://github.com/SxNade
 '''
 print(logo)
+print("\n\nThor v1.0 starting...")
 
 if len(sys.argv) != 4:
   print("[*]usage python3 thor.py <ip> <username> <password-file>")
