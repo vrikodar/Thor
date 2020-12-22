@@ -1,4 +1,4 @@
-echo [+] Thor By SxNade.......https://github.com/SxNade
+echo [+] Thor By SxNade.......  https://github.com/SxNade
 echo [*] This Script will install all the required Dependencies....
 sudo apt install python3-pip
 sudo pip3 install termcolor
