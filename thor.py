@@ -48,7 +48,7 @@ print(logo)
 print("\n\nThor v1.0 starting...")
 
 if len(sys.argv) != 4:
-  print("[*]usage python3 thor.py <ip> <username> <password-file>")
+  print("\n[*]usage python3 thor.py <ip> <username> <password-file>\n")
   sys.exit(0)
 
 target_ip = sys.argv[1]
