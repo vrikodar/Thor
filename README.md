@@ -32,11 +32,15 @@ To run Thor Simply Execute the Following Command....with respective values....
 ![Capture](https://raw.githubusercontent.com/SxNade/Thor/main/thor.png)
 
 # 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢
-`WHO SO EVER RUNS THIS IF HE/SHE IS WORTHY SHALL FIND THE SSH PASSWORD`
 
 `Use Python3 to run the Program`
 
 `Note: The time.sleep value is set to 0.5 by default you may change it to 0.2 for maximum performance and speed but this may raise some errors but will still manage to Discover the password`
+
+
+`WHO SO EVER RUNS THIS IF HE/SHE IS WORTHY SHALL FIND THE SSH PASSWORD`
+
+![Capture](https://i.makeagif.com/media/5-03-2019/CrHOpF.gif)
 
 # 𝑴𝑨𝑲𝑬_𝑰𝑻_𝑩𝑬𝑻𝑻𝑬𝑹
 To make Thor Even Better Contribute to it Or use and Report Any Bugs or fixes Required..
