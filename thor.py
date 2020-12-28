@@ -13,6 +13,7 @@ from termcolor import colored
 exit_tag = 0
 #setting the initial value to 0
 
+#thor's hammer!
 hammer = '''
  -------
 / SxNade|
@@ -93,4 +94,5 @@ with open(password_file, 'r') as file:
     #starting threading on ssh_connect function which takes only one argument of password...
     time.sleep(0.5)
     #time in seconds between each successive thread//Don't change it unless very neccessary...!
+    #Lowering this time value may cause some errors......!
 
