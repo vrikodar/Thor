@@ -50,7 +50,7 @@ time.sleep(1.5)
 print("\n\nThor v1.0 starting...")
 
 if len(sys.argv) != 4:
-  print("\n[*]usage python3 thor.py <ip> <username> <password-file>\n")
+  print(colored("\n[*]usage python3 thor.py <ip> <username> <password-file>\n\n", 'white', attrs=['reverse', 'blink']))
   sys.exit(0)
 
 target_ip = sys.argv[1]
