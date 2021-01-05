@@ -29,7 +29,7 @@ To run Thor Simply Execute the Following Command....with respective values....
 
 `python3 thor.py <TARGET-IP> <USERNAME-FOR-SSH> <PASSWORD-FILE_OR_PATH-TO-IT>`
 
-![Capture]https://github.com/SxNade/Thor/blob/main/thor(1).gif)
+![Capture](https://github.com/SxNade/Thor/blob/main/thor(1).gif)
 
 # 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢
 
