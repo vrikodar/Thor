@@ -1,6 +1,7 @@
 #By SxNade
 #https://github.com/SxNade/Thor
 #CONTRIBUTE
+#BRUTEFORCE___SSH
 
 import paramiko
 import os
