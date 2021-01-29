@@ -71,6 +71,7 @@ def ssh_connect(password, code=0):
     ssh.connect(target_ip, port=22, username=username, password=password)
     exit_tag = 1
     print(colored(f"\n[+]SSH Password For {username} found :> {password}    {hammer}\n", "green", attrs=['bold']))
+    os.system(f"notify-send 'Password Found::{password}'")
   except:
     print(colored(f"[!]Incorrect SSH password:> {password}", 'red'))
   ssh.close()
