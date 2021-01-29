@@ -39,6 +39,7 @@ To run Thor Simply Execute the Following Command....with respective values....
 
 **If we want by adding "&" at the end we can background the process**
 
+![capture](https://github.com/SxNade/Thor/blob/main/Thor2.gif)
 
 # 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢
 
