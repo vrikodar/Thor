@@ -31,6 +31,15 @@ To run Thor Simply Execute the Following Command....with respective values....
 
 ![Capture](https://github.com/SxNade/Thor/blob/main/Thor.gif)
 
+# RUN_in_BACKGROUND
+
+*you can run thor in background if thor finds password it will send a notification on screen*
+
+`python3 thor.py IP USER PASS-FILE&`
+
+**If we want by adding "&" at the end we can background the process**
+
+
 # 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢
 
 `Use Python3 to run the Program`
