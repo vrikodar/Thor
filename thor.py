@@ -49,7 +49,8 @@ X~     `?888888hx~ `888E        ...ue888b   .d88B :@8c
 print(logo)
 time.sleep(1.5)
 print("\n\nThor v1.0 starting...")
-
+os.system("notify-send 'Thor Successfully initiated'")
+time.sleep(2)
 if len(sys.argv) != 4:
   print(colored("\n[*]usage python3 thor.py <ip> <username> <password-file>\n\n", 'white', attrs=['reverse', 'blink']))
   sys.exit(0)
