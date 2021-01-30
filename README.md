@@ -16,7 +16,8 @@
 
 `Thor Uses Threading in Order to Speed-up the Bruteforce_Process`
 
-
+**sha256sum** -> `67fe51bccdbfd2b3d279287b1d6a339e38c5d638267260791ab90121e6d81f61` thor.py
+ 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
 ` 1 chmod +x install.sh`
