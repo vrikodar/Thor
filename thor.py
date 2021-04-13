@@ -44,7 +44,7 @@ X~     `?888888hx~ `888E        ...ue888b   .d88B :@8c
                          J88"                           
                          @%                             
                        :"                               
-                            *By SxNade https://github.com/SxNade
+                            *By SxNade https://github.com/SxNade :: SxNade@protonmail.com
 '''
 print(logo)
 time.sleep(1.5)
