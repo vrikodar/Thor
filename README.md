@@ -2,7 +2,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.6+-green)](https://www.python.org)
 
 # Thor
-![Capture](https://i.pinimg.com/originals/92/f5/5d/92f55d08533130e1caa6eabfe2139718.gif)
+![Capture]()
 
 `BruteForce SSH Login Credentials much Faster...!`
 
@@ -43,7 +43,7 @@ To run Thor Simply Execute the Following Command....with respective values....
 
 `WHO SO EVER RUNS THIS IF HE/SHE IS WORTHY SHALL FIND THE SSH PASSWORD`
 
-![Capture](https://i.makeagif.com/media/5-03-2019/CrHOpF.gif)
+![Capture](https://i.pinimg.com/originals/92/f5/5d/92f55d08533130e1caa6eabfe2139718.gif)
 
 # 𝑴𝑨𝑲𝑬_𝑰𝑻_𝑩𝑬𝑻𝑻𝑬𝑹
 To make Thor Even Better Contribute to it Or use and Report Any Bugs or fixes Required..
