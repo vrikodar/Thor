@@ -11,15 +11,16 @@
  
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
-` 1 chmod +x install.sh`
-
-`2 ./install.sh`
-
-
+     $ git clone https://github.com/SxNade/Thor
+     $ cd Thor
+     $ chmod +x install.sh
+     
+     $ ./install.sh
+     
 # 𝙍𝙐𝙉𝙉𝙄𝙉𝙂
 To run Thor Simply Execute the Following Command....with respective values....
 
-`python3 thor.py <TARGET-IP> <USERNAME-FOR-SSH> <PASSWORD-FILE_OR_PATH-TO-IT>`
+      python3 thor.py <target-ip> <ssh-username> <password_wordlist_/complete path>
 
 ![Capture](https://github.com/SxNade/Thor/blob/main/Thor.gif)
 
@@ -27,7 +28,7 @@ To run Thor Simply Execute the Following Command....with respective values....
 
 *you can run thor in background if thor finds password it will send a notification on screen*
 
-`python3 thor.py IP USER PASS-FILE&`
+    python3 thor.py IP USER PASS-FILE&
 
 **If we want by adding "&" at the end we can background the process**
 
