@@ -28,41 +28,17 @@ hammer = '''
      '''
 
 logo = '''
-       !
-       !
-       ^
-      / \
-     /___\
-    |=   =|
-    |     |
-    |     |
-    |     |
-    |     |
-    |     |
-    |     |
-    |     |
-    |     |
-    |     |
-   /|##!##|\
-  / |##!##| \
- /  |##!##|  \
-|  / ^ | ^ \  |
-| /  ( | )  \ |
-|/   ( | )   \|
-    ((   ))
-   ((  :  ))
-   ((  :  ))
-    ((   ))
-     (( ))
-      ( )
-       .
-       .
-       .                               
-                            *By SxNade https://github.com/SxNade :: SxNade@protonmail.com
+ ________           
+/_  __/ /  ___  ____
+ / / / _ \/ _ \/ __/
+/_/ /_//_/\___/_/   
+                    
+                         
+           *By SxNade https://github.com/SxNade :: SxNade@protonmail.com
 '''
 print(logo)
 time.sleep(1.5)
-print("\n\nThor v2.1 starting...")
+print("\n\nThor v2.1a starting...")
 os.system("notify-send 'Thor Successfully initiated'")
 time.sleep(2)
 if len(sys.argv) != 4:
