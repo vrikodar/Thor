@@ -31,8 +31,7 @@ logo = '''
  ________           
 /_  __/ /  ___  ____
  / / / _ \/ _ \/ __/
-/_/ /_//_/\___/_/   
-                    
+/_/ /_//_/\___/_/           
                          
            *By SxNade https://github.com/SxNade :: SxNade@protonmail.com
 '''
